@@ -7,7 +7,7 @@ olá,me chamo João Vitor Ferreira e atualmente estudo na Maria Célia
 Cursando o curso técnico de informática. Tenho 15 anos e sou um cara mais fechado,gosto de ficar na minha e procuro 
 sempre os meu objetivos,mesmo que seja difícil.
 
-Pontos positivos:
+### Pontos positivos:
 ```markdown
 Syntax highlighted code block
 
