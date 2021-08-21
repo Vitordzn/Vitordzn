@@ -2,18 +2,20 @@
 
 
 
-### Um POUCO DE SOBRE MIM:
+### UM POUCO DE SOBRE MIM:
 olá,me chamo João Vitor Ferreira e atualmente estudo na Maria Célia
 Cursando o curso técnico de informática. Tenho 15 anos e sou um cara mais fechado,gosto de ficar na minha e procuro 
 sempre os meu objetivos,mesmo que seja difícil.
 
-### Pontos positivos:
-```markdown
-Syntax highlighted code block
+### O QUE EU GOSTO DE FAZER?
+Eu gosto de jogar games eletrônicos,jogar campeonato e assistir séries.
+Sempre fico em qual com amigos pra se divertir e também,gosto sempre de apreender coisas novas
 
-# Vitor.dzn
-## Header 2
-### Header 3
+### Esportes favoritos:
+
+1. Futebol
+2. Vôlei
+3. Basquete
 
 - Bulleted
 - List
