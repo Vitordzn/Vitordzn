@@ -1,3 +1,4 @@
+(url)https://www.designindaba.com/sites/default/files/styles/scaledlarge/public/node/news/25070/gallery/thulasizwe-mamba-interview-201900021012still008.jpg?itok=yfDFi8_N
 ## Bem vindo ao meu mundo virtual
 
 
