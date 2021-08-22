@@ -21,7 +21,5 @@ Sempre fico em call com amigos pra se divertir e também,gosto sempre de apreend
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
+#
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings]rdzn/Vitordzn/se
