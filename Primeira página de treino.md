@@ -4,9 +4,10 @@
 
 
 ### UM POUCO DE SOBRE MIM:
-olá,me chamo João Vitor Ferreira e atualmente estudo na Maria Célia
-Cursando o curso técnico de informática. Tenho 15 anos e sou um cara mais fechado,gosto de ficar na minha e procuro 
-sempre os meu objetivos,mesmo que seja difícil.
+Olá!Sou João Vitor Ferreira, mas pode me chamar de "Vitor" ou "João" enfim,chamem do que acharem melhor <:
+Atualmente,estudo na escola profissionalizante Maria Célia pinheiro falcão, e estou cursando a área de informática.
+Sou um cara fechado, e gosto sempre de dá o meu melhor na coisas que eu realizo.Sou fã de eSports,e sempre tive um sonho de ser
+Player profissional rsrs.
 
 ### O QUE EU GOSTO DE FAZER?
 Eu gosto de jogar games eletrônicos,jogar campeonato e assistir séries.
