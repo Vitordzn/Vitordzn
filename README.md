@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Vitordzn
-- 👀 I’m interested in crescer na plataforma
-- 🌱 I’m currently learning programação
-- 💞️ I’m looking to collaborate on esforço e dedicação
-- 📫 você pode falar comigo pelo privado
+- 👀 Sou designer de eSports e social mídia.
+- 🌱 estudando programação e investimento
+- 💞️ Ao o meu ver,acho interessante sempre estudar algo novo.
+- 📫 Nas horas livres gosto de jogar jogos online
 
 <!---
 Vitordzn/Vitordzn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
